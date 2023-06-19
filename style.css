@@ -43,3 +43,20 @@ table {
 	border-spacing: 0;
 }
 /* Reset Style */
+html{
+	font-size: 18px; /* Base font size*/
+}
+
+
+.navigation{
+	background-color: #bdbdbd;
+	padding: .75rem;
+
+}
+.footer { /* Sticky footer */
+	background-color: #bdbdbd;
+	padding: .88rem;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
